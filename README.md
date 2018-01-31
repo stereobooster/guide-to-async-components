@@ -47,6 +47,9 @@ See also:
 - ⚡ Speed tip: use MP4 without sound instead of GIF images
 - ⚡ Speed tip: provide WebP images instead of JPG images
 
+See also:
+- [`<img lazyload>`](https://docs.google.com/document/d/1e8ZbVyUwgIkQMvJma3kKUDg8UUkLRRdANStqKuOIvHg/edit#heading=h.fuqo94v1qejx)
+
 ### Placeholders
 
 - `Constant placeholder` - do not use it
@@ -57,6 +60,7 @@ See also:
 See also:
 
 - [Overview of different types of placeholders](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c)
+
 ### Responsive (resize) strategies
 
 - `Fit to column width`, preserves ratio. Easy for images, for other media use something like [responsive-embed](https://foundation.zurb.com/sites/docs/responsive-embed.html)

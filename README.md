@@ -6,6 +6,8 @@ Also known as [code splitting](https://webpack.github.io/docs/code-splitting.htm
 
 Async component (in React) is a technique (typically implemented as a Higher Order Component) for loading components with dynamic `import`.
 
+See also: [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/)
+
 ### Solutions
 
 - [`react-loadable`](https://github.com/thejameskyle/react-loadable)

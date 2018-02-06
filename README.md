@@ -107,6 +107,7 @@ Go is the perfect fit for this kind of task. [AWS Lambda now supports Go](https:
 - [Fast and secure standalone server for resizing and converting remote images](https://github.com/DarthSim/imgproxy)
 - [Golang graphics](http://libs.club/golang/media/graphics)
 - [Go Bindings for Vips (a super fast image processor)](https://github.com/DAddYE/vips)
+- [caire](https://github.com/esimov/caire) content aware image resize library
 
 ## Infinite scroll
 A special case of async components. Example: [`react-virtualized`](https://bvaughn.github.io/react-virtualized/#/wizard)

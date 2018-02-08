@@ -14,6 +14,7 @@ See also: [Redux modules and code-splitting](http://nicolasgallagher.com/redux-m
 - [`loadable-components`](https://github.com/smooth-code/loadable-components)
 - [`react-async-component`](https://github.com/ctrlplusb/react-async-component)
 - [`react-code-splitting`](https://github.com/didierfranc/react-code-splitting)
+- [react-loadable-visibility](https://github.com/stratiformltd/react-loadable-visibility)
 
 ### Strategies
 

@@ -88,6 +88,7 @@ See also:
 - [react-lazy-load](https://github.com/loktar00/react-lazy-load)
 - [react-graceful-image](https://github.com/linasmnew/react-graceful-image)
 - [lazy-image](https://github.com/notwaldorf/lazy-image)
+- [react-worker-image](https://github.com/nitish24p/react-worker-image)
 
 ### Resizing images on the fly
 

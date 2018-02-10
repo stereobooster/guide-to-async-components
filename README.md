@@ -2,7 +2,7 @@
 
 ## JavaScript async components
 
-Also known as [code splitting](https://webpack.github.io/docs/code-splitting.html), [dynamic import](https://github.com/tc39/proposal-dynamic-import) (TC39 proposal), "chunks" (which are loaded on demand), "layers", "rollups", or "fragments".
+Also known as [code splitting](https://webpack.js.org/guides/code-splitting/), [dynamic import](https://github.com/tc39/proposal-dynamic-import) (TC39 proposal), "chunks" (which are loaded on demand), "layers", "rollups", or "fragments".
 
 Async component (in React) is a technique (typically implemented as a Higher Order Component) for loading components with dynamic `import`.
 

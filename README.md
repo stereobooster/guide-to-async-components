@@ -28,7 +28,7 @@ See also: [Redux modules and code-splitting](http://nicolasgallagher.com/redux-m
 - 🎱 Trick (`components to chunks`): some components can be skipped in case of `SSR`, for example, Mapbox map
 
 ### Placeholders
-- `Component placeholder`, also called `skeleton screens`. Use [react-content-loader](https://github.com/danilowoz/react-content-loader)
+- `Component placeholder`, also called `skeleton screens`. Use [react-content-loader](https://github.com/danilowoz/react-content-loader), [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton)
 - `Spinner`. Use CSS3, like [spinkit](http://tobiasahlin.com/spinkit/), [loaders](https://connoratherton.com/loaders), [css-loaders](https://projects.lukehaas.me/css-loaders/)
 
 See also:

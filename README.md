@@ -79,16 +79,7 @@ See also:
 
 ### Solutions
 
-(unsorted)
-
-- [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image)
-- [react-lazyload](https://github.com/jasonslyvia/react-lazyload)
-- [react-lazy-image](https://github.com/sergiodxa/react-lazy-image)
-- [react-image](https://github.com/mbrevda/react-image)
-- [react-lazy-load](https://github.com/loktar00/react-lazy-load)
-- [react-graceful-image](https://github.com/linasmnew/react-graceful-image)
-- [lazy-image](https://github.com/notwaldorf/lazy-image)
-- [react-worker-image](https://github.com/nitish24p/react-worker-image)
+- [react-ideal-image](https://github.com/stereobooster/react-ideal-image)
 
 ### Resizing images on the fly
 
